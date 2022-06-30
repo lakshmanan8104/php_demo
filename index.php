@@ -80,7 +80,7 @@ else{
 
             <main class="mn-inner mt-5">
                 <div class="row d-flex justify-content-center align-items-center">
-        <h4 class="font-weight-bold text-center text-danger">Welcome to ELMS Balaji</h4>
+        <h4 class="font-weight-bold text-center text-danger">Welcome to ELMS Balaji2</h4>
         
                     <div class="col-md-12">
                         <div class="row">
